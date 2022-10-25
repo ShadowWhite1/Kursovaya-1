@@ -33,6 +33,7 @@ def main():
             
       if not os.path.exists('images_vk'):
         os.mkdir('images_vk')
+        os.makedirs('images_vk')
 
       while x <= all_photo_count:
         if x != 0:
@@ -108,7 +109,7 @@ def main():
   count = 0
   for photo in photos_list:
     file_name = photo
-    files_path = os.getcwd() + '\images_vk\\' + photo
+    files_path = os.getcwd() + '/images_vk//' + photo
     result = uploader.upload(files_path)
     count += 1
     print(f'Фотографий загружено на Яндекс диск: {count}')
