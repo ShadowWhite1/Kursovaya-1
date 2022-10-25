@@ -1,1 +1,1 @@
-vk_token = 'vk1.a.oOqVnvGouzB-CGVkZHxzZJTP60tWS_YlQQvNPVIwNf_rPeTIuArwvcE5KvpA8vT5ghvMWwqXVQf7mVRKE44lTg0zYcv9PtGjE0JDpx43sz96q83VwQZLqCymv62HmxiMWcpBQwOJzu4sVw9ai9FX7JbnOoHTAuOnl_dFUF7Tu22_I0EyLzL6fEUjU9NHRzSs'
+vk_token = ''
